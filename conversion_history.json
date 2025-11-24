@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-11-24 17:12:34",
+    "category": "Length",
+    "input": "100.0 meter",
+    "output": "0.1 kilometer",
+    "conversion": "100.0 meter \u2192 0.1 kilometer"
+  },
+  {
+    "timestamp": "2025-11-24 17:13:08",
+    "category": "Temperature",
+    "input": "32.0 fahrenheit",
+    "output": "0.0 celsius",
+    "conversion": "32.0 fahrenheit \u2192 0.0 celsius"
+  },
+  {
+    "timestamp": "2025-11-24 17:13:33",
+    "category": "Weight",
+    "input": "1.0 kilogram",
+    "output": "2.204624 pound",
+    "conversion": "1.0 kilogram \u2192 2.204624 pound"
+  },
+  {
+    "timestamp": "2025-11-24 18:16:28",
+    "category": "Length",
+    "input": "10.0 meter",
+    "output": "0.01 kilometer",
+    "conversion": "10.0 meter \u2192 0.01 kilometer"
+  },
+  {
+    "timestamp": "2025-11-24 18:43:30",
+    "category": "Length",
+    "input": "10.0 meter",
+    "output": "0.01 kilometer",
+    "conversion": "10.0 meter \u2192 0.01 kilometer"
+  },
+  {
+    "timestamp": "2025-11-24 18:48:19",
+    "category": "Weight",
+    "input": "5.0 kilogram",
+    "output": "5000.0 gram",
+    "conversion": "5.0 kilogram \u2192 5000.0 gram"
+  }
+]
