@@ -1,8 +1,6 @@
 UNIT CONVERTER PROJECT
 
-================================================================================
 PROBLEM STATEMENT
-================================================================================
 
 Unit conversion is a fundamental requirement in academic and professional environments. Students performing physics experiments, engineers working on international projects, and everyday users cooking or traveling frequently encounter situations requiring accurate unit conversions.
 
@@ -24,9 +22,7 @@ Unit Converter Pro addresses these gaps by providing:
 
 The project demonstrates practical application of first-semester Python concepts including modular programming, file I/O, error handling, and data persistence.
 
-================================================================================
 SCOPE OF THE PROJECT
-================================================================================
 
 IN SCOPE (Included in Version 1.0):
 
@@ -74,9 +70,7 @@ Technical Constraints:
 4.	Users: Single-user application
 5.	Development Time: 4 hours
 
-================================================================================
 TARGET USERS
-================================================================================
 
 User Group 1: Engineering & Science Students
 Demographics: Ages 17-22, first and second-year students
@@ -155,9 +149,7 @@ Persona 3 - Neha (Home Cook):
 This converter is so simple to use - I just enter the numbers and it 
 gives me the answer instantly!"
 
-================================================================================
 HIGH-LEVEL FEATURES
-================================================================================
 
 Feature 1: Multi-Category Unit Conversion
 Description: Convert between different types of measurements in one application
